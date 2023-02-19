@@ -6,4 +6,4 @@ Before installing, please make sure you have <a href="https://nodejs.org/en/">No
 
 1. Open your terminal.
 2. Paste the following command, and execute it..
-`npm i -g [url] --save-dev`
+`npm i -g https://github.com/devrusty/npm-shell --save-dev`
