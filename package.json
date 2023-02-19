@@ -1,0 +1,9 @@
+{
+  "name": "npm-shell",
+  "version": "1.0.0",
+  "description": "A package for running .npm files as NPM scripts in the working directory.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "devrusty",
+  "license": "ISC"
+}
